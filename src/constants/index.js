@@ -311,7 +311,7 @@ const projects = [
     ],
     image: YT,
     source_code_link: "https://github.com/thesumitsuryawanshi/Youtube",
-    project_Real_Time_Link: "https://github.com/thesumitsuryawanshi/Youtube",
+    project_Real_Time_Link: "https://youtube-mauve-nine.vercel.app",
   },
 ];
 
